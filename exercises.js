@@ -214,7 +214,7 @@ console.log(addThenSubtract());
  * Console.log your result.
 */ 
 
-
+function subtract(){}
 
 /*
  * #12
